@@ -6,7 +6,7 @@ import Link from 'next/link'
 
 const name = "Arbin Shrestha"
 export const siteTitle = 'Next.js Sample Website'
-
+// blyat
 export default function Layout({children, home}){
     return (
         <div className={styles.container}>
